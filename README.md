@@ -1,5 +1,5 @@
 # Calcule o seu IMC
-<h1>Calcule o seu IMC</h1>
+
 
 <h2>React Native</h2>
 
